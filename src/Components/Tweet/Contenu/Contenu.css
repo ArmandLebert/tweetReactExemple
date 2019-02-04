@@ -1,0 +1,11 @@
+.tweet-content-container{
+  padding-top: 10px;
+}
+
+.tweet-content-container h4{
+  color: orange;
+}
+
+.tweet-content-container p{
+  color: green;
+}
